@@ -1,0 +1,5 @@
+#!/bin/sh
+
+chmod 755 /etc/init.d/samba
+rm -f /tmp/luci-indexcache
+exit 0

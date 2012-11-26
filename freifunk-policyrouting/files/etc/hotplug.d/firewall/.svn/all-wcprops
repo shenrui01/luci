@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/8698/luci/trunk/contrib/package/freifunk-policyrouting/files/etc/hotplug.d/firewall
+END
+24-policyrouting
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/8698/luci/trunk/contrib/package/freifunk-policyrouting/files/etc/hotplug.d/firewall/24-policyrouting
+END
